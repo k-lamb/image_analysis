@@ -33,6 +33,6 @@
             - there's also a pointless section that calculates a spline regression of r^2 across a sample of thresholds to figure out the threshold that maximizes r^2 (it was wrong)
 
 
-Supplemental:
+5) Supplemental scripts
       - threshold images to make features more distinct (image_threhsolder.py)
       - convert images to desired format (tiff_to_jpg.py)
